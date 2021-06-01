@@ -18,7 +18,7 @@ $('body').scrollspy({
     offset: 100
 })
 
-$('a').smoothScroll({
+$('.scroll-page').smoothScroll({
     speed: 800
 });
 
